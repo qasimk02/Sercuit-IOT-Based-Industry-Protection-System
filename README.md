@@ -2,7 +2,7 @@
   <img src="project_logo.png" alt="Project Logo">
 </p>
 
-<h1 align="center">Project Name</h1>
+<h1 align="center">SERCUIT</h1>
 
 <p align="center">
   Welcome to Project Name! This cutting-edge web application powered by Flask and React enables real-time monitoring and data visualization from our R-Pi hardware device.
@@ -40,7 +40,7 @@ Project Name is a groundbreaking web application that provides real-time data mo
 ## Getting Started
 To get started with Project Name, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/project-name.git`
+1. Clone the repository: `git clone [https://github.com/your-username/project-name.git](https://github.com/qasimk02/Sercuit-IOT-Based-Industry-Protection-System.git)`
 2. Install dependencies: `npm install`
 3. Set up the Flask API: Refer to the `api/README.md` for detailed instructions.
 4. Start the development server: `npm start`
@@ -65,9 +65,6 @@ We welcome contributions to Project Name! To contribute, follow these steps:
 3. Make your changes and commit them: `git commit -m "Add new feature"`
 4. Push to the branch: `git push origin my-feature-branch`
 5. Submit a pull request to the `main` branch.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
