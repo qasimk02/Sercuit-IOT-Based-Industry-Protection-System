@@ -40,7 +40,7 @@ Project Name is a groundbreaking web application that provides real-time data mo
 ## Getting Started
 To get started with Project Name, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/your-username/project-name.git](https://github.com/qasimk02/Sercuit-IOT-Based-Industry-Protection-System.git)`
+1. Clone the repository: `git clone [https://github.com/your-username/project-name.git]`
 2. Install dependencies: `npm install`
 3. Set up the Flask API: Refer to the `api/README.md` for detailed instructions.
 4. Start the development server: `npm start`
