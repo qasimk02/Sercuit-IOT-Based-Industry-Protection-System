@@ -5,7 +5,7 @@
 <h1 align="center">SERCUIT</h1>
 
 <p align="center">
-  Welcome to Project Name! This cutting-edge web application powered by Flask and React enables real-time monitoring and data visualization from our R-Pi hardware device.
+  Welcome to Sercuit! This IOT based cutting-edge web application powered by Flask and React enables real-time monitoring and data visualization from our R-Pi hardware device.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 - [License](#license)
 
 ## Introduction
-Project Name is a groundbreaking web application that provides real-time data monitoring and visualization from our R-Pi hardware device. It allows users to register and log in to access personalized data, showcasing humidity and temperature readings in intuitive charts and gauge values. Additionally, the application keeps users informed about the device's status, including working condition, DHT failures, and GSM failures.
+Sercuit is a groundbreaking web application that provides real-time data monitoring and visualization from our R-Pi hardware device. It allows users to register and log in to access personalized data, showcasing humidity and temperature readings in intuitive charts and gauge values. Additionally, the application keeps users informed about the device's status, including working condition, DHT failures, and GSM failures.
 
 <p align="center">
   <img src="screenshot_1.png" alt="Screenshot 1">
