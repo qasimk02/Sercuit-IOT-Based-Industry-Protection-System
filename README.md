@@ -69,5 +69,5 @@ We welcome contributions to Project Name! To contribute, follow these steps:
 ---
 
 <p align="center">
-  Made with ❤️ by Mohammad Qasim and Sudesh Manjrekar. | Powered by Flask and React.
+  Made with ❤️ by <a href="https://github.com/qasimk02">Mohammad Qasim</a> and <a href="https://github.com/Sudesh22">Sudesh Manjrekar</a>. | Powered by Flask and React.
 </p>
