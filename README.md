@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="project_logo.png" alt="Project Logo">
+  <img width="250px"src="readme-assets/logo.png" alt="Project Logo">
 </p>
 
 <h1 align="center">SERCUIT</h1>
@@ -23,11 +23,7 @@
 Sercuit is a groundbreaking web application that provides real-time data monitoring and visualization from our R-Pi hardware device. It allows users to register and log in to access personalized data, showcasing humidity and temperature readings in intuitive charts and gauge values. Additionally, the application keeps users informed about the device's status, including working condition, DHT failures, and GSM failures.
 
 <p align="center">
-  <img src="screenshot_1.png" alt="Screenshot 1">
-</p>
-
-<p align="center">
-  <img src="screenshot_2.png" alt="Screenshot 2">
+  <img src="readme-assets/dashboard.png" alt="demo">
 </p>
 
 ## Functionalities
@@ -53,7 +49,7 @@ Once the application is running, you can:
 - Receive device status updates and notifications on the dashboard.
 
 <p align="center">
-  <img src="screenshot_3.png" alt="Screenshot 3">
+  <img src="readme-assets/team.png" alt="team">
 </p>
 
 ## Contributing
