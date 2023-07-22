@@ -6,8 +6,10 @@ export default function Sidebar({ onRouteChange, onInternalRouteChange }) {
   return (
     <div className="sidebar">
       <div className="title">
-        <div className="logo"></div>
-        <h2>Sercuit</h2>
+        <div className="logo">
+          <img src={`${process.env.PUBLIC_URL}/images/logo.png`} alt="logo" />
+        </div>
+        <p className="name">Sercuit</p>
       </div>
       {SidebarData.map((item, index) => {
         return (

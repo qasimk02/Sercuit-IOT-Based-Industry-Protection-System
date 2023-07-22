@@ -3,16 +3,18 @@
   flex-direction: column;
   color: grey;
 }
-h2 {
-  color: white;
-}
 .sidebar .title {
   display: flex;
   align-items: center;
   justify-content: left;
+  padding: 3px;
 }
 .sidebar .title .logo {
-  margin: 18px;
+  width: 60px;
+}
+.sidebar .title .name {
+  font-size: 1.6rem;
+  margin-top: 0;
 }
 .sidebar ul {
   padding: 0;
