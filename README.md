@@ -18,7 +18,6 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Sercuit is a groundbreaking web application that provides real-time data monitoring and visualization from our R-Pi hardware device. It allows users to register and log in to access personalized data, showcasing humidity and temperature readings in intuitive charts and gauge values. Additionally, the application keeps users informed about the device's status, including working condition, DHT failures, and GSM failures.
@@ -40,7 +39,7 @@ Sercuit is a groundbreaking web application that provides real-time data monitor
 ## Getting Started
 To get started with Project Name, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/your-username/project-name.git]`
+1. Clone the repository: `git clone https://github.com/qasimk02/Sercuit-IOT-Based-Industry-Protection-System.git`
 2. Install dependencies: `npm install`
 3. Set up the Flask API: Refer to the `api/README.md` for detailed instructions.
 4. Start the development server: `npm start`
@@ -58,16 +57,16 @@ Once the application is running, you can:
 </p>
 
 ## Contributing
-We welcome contributions to Project Name! To contribute, follow these steps:
+We welcome contributions to Sercuit! To contribute, follow these steps:
 
 1. Fork the repository.
-2. Create a new branch: `git checkout -b my-feature-branch`
+2. Create a new branch: `git checkout -b feature/[feature-name]`
 3. Make your changes and commit them: `git commit -m "Add new feature"`
-4. Push to the branch: `git push origin my-feature-branch`
-5. Submit a pull request to the `main` branch.
+4. Push to the branch: `git push origin feature/[feature-name]`
+5. Submit a pull request to the `develop` branch.
 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/qasimk02">Mohammad Qasim</a> and <a href="https://github.com/Sudesh22">Sudesh Manjrekar</a>. | Powered by Flask and React.
+  Made with ❤️ by <a href="https://github.com/qasimk02">Mohammad Qasim</a> and <a href="https://github.com/Sudesh22">Sudesh Manjrekar</a> | Powered by Flask and React.
 </p>
